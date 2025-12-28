@@ -1,14 +1,13 @@
-# **Hola soy Totobal 🐓**
+# **Totobal! 🐓**
 
-Soy un tecnico electronica con certificacion IPC y clase D SEC. Uso lenguaje game maker para crear librerias y videojuegos, además tambien se usar Java para crear herramientas y aplicaciones.
+Tecnico en electronica con certificacion IPC y SEC clase D. Game Maker es mi pasión y generalmente publico mis librerias en mi github.
 
 ## **Habilidades**
 
 * **Certificaciones Técnicas:** IPC A-610, Licencia Eléctrica SEC Clase D.  
 * **Lenguajes de Programación:** GameMaker Language (GML), Java (SE/EE), SQL.  
 * **Frameworks Backend:** Spring Boot 3, Spring Security, Spring Data JPA.  
-* **Desarrollo Web:** APIs RESTful, Thymeleaf, JWT.  
-* **Herramientas:** Git, Maven, H2 Database, VS Code.
+* **Desarrollo Web:** APIs RESTful, Thymeleaf, JWT.
 
 ## **Repos**
 
